@@ -1,11 +1,12 @@
 /* your code */
 table{
 	border: 2px solid #555;
-	
-	font: 18px ;
-	
+	font: 18px ;	
 }
-th,
+th{
+	color: white;
+	background: lightblue;
+}
 td {
   border: 1px solid #bbb;
   padding: 2px 8px 0;
